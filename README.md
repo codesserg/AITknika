@@ -1,5 +1,5 @@
 # AITknika
-IA realizada por el centro de estudio Almi
+IA realizada por el centro de estudio Almia
                           |
                           |
                           v
